@@ -1,0 +1,203 @@
+@media (max-width: 1200px){
+    .home_content h2 {
+        font-size: 27px;
+    }
+    .home_content h3 {
+        font-size: 29px;
+    }
+    .progress_inofr {
+        font-size: 15px;
+    }
+    .progress_inof {
+        font-size: 16px;
+    }
+    .flip-clock-divider {
+        width: 6px;
+    }
+    .flip-clock-dot {
+        left: -1px;
+    }
+    .home_icon_bg {
+        width: 16.25rem;
+        height: 16.25rem;
+    }
+    .nav_links > ul > li {
+        margin-left: 10px;
+    }
+    .abo_crypto_img img {
+        width: 100%;
+    }
+    .btn_primary_cryto {
+        bottom: 18%;
+        right: 44.5%;
+    }
+    .about_video_text {
+        right: 40%;
+    }
+    .blog_btn, .blog_btn_left {
+        padding: 17px 14px;
+    }
+    .single_infor {
+        font-size: 14px;
+    }
+    .single_infor i {
+        font-size: 1.5rem;
+    }
+    .alert {
+        display: none !important;
+    }
+}
+@media (max-width: 992px){
+    .home_content h2 {
+        font-size: 20px;
+    }
+    .home_content h3 {
+        font-size: 21px;
+    }
+    .progress_top ul li {
+        font-size: 16px;
+    }
+    .flip-clock-divider {
+        width: 0px;
+    }
+    .flip-clock-dot {
+        left: -1px;
+    }
+    .flip-clock-dot {
+        left: -4px;
+    }
+    .purchase_btn {
+        width: 70%;
+    }
+    .home_icon_bg {
+        width: 11.25rem;
+        height: 11.25rem;
+    }
+    .crypto_icon_img_3 {
+        top: 36%;
+        left: 27%;
+        width: 33%;
+    }
+    .btn_primary_cryto {
+        bottom: 12%;
+        right: 41.5%;
+    }
+    .about_video_text {
+        font-size: 11px;
+        bottom: 6%;
+        right: 44%;
+    }
+    .solutions_img img {
+        width: 100%;
+    }
+    .whitepaper_img img {
+        width: 100%;
+    }
+    .downl_text {
+        font-size: 12px;
+    }
+    .distribution_img img {
+        width: 100%;
+    }
+    .team_profile_img::before {
+        height: 147px;
+        top: -22px;
+    }
+}
+@media (max-width: 767px){
+    .logo_img {
+        flex-basis: 9%;
+    }
+    .mobile_bar {
+        display: block;
+        text-align: right;
+        float: right;
+        width: 100%;
+        margin-top: -35px;
+        color: white;
+        font-size: 23px;
+    }
+    .sign_in_btn {
+        display: none;
+    }
+    .nav_links {
+        position: absolute;
+        background: #552FFC;
+        top: 0;
+        left: 0;
+        width: 100%;
+        text-align: left;
+        padding: 10px;
+        display: none;
+    }
+    .nav_links ul li {
+        display: block;
+    }
+    .body_left_social {
+        display: none;
+    }
+    .demo {
+        display: none;
+    }
+    .flip-clock-divider {
+        width: 20px;
+    }
+    .flip-clock-dot {
+        left: 5px;
+    }
+    .home_content h2 {
+        font-size: 30px;
+    }
+    .progress_top ul li {
+        margin: 0 42px;
+    }
+    .home_icon_bg {
+        width: 20.25rem;
+        height: 20.25rem;
+    }
+    .single_exchange h2 {
+        font-size: 22px;
+    }
+    .single_exchange img {
+        width: 55px;
+    }
+    .single_exchange p {
+        font-size: 10px;
+    }
+    .btn_primary_cryto {
+        bottom: 17%;
+        right: 44.5%;
+    }
+    .about_video_text {
+        font-size: 16px;
+        bottom: 9%;
+        right: 40%;
+    }
+    .team_profile_img::before {
+        height: 300px;
+        top: -28px;
+    }
+    .blog_img img {
+        display: none;
+    }
+}
+@media (max-width: 576px){
+    .mobile_bar {
+        margin-right: 20px;
+    }
+    .home_icon_bg {
+        width: 15.25rem;
+        height: 15.25rem;
+    }
+    .about_video_text {
+        font-size: 13px;
+    }
+    .btn_primary_cryto {
+        bottom: 17%;
+        right: 42.5%;
+    }
+    .roadmap_slider {
+        width: 87%;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'themify';
+    src: url(fonts/themify.eot);
+    src: url(fonts/themify.svg);
+    src: url(fonts/themify.ttf);
+    src: url(fonts/themify.woff);
+    font-style: normal;
+    font-weight: normal;
+}
